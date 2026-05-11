@@ -12,7 +12,7 @@ public class app {
                 // create and display the title screen
                 new titlescreengui().setVisible(true);
 
-                // uncomment to test other screens directly:
+                
                 // new createquestionscreengui().setVisible(true);
                 // new qiuzscreengui(new category(1, "General Knowledge"), 10).setVisible(true);
             }
