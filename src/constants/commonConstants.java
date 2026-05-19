@@ -2,10 +2,8 @@ package quizapplication.src.constants;
 
 import java.awt.*;
 
-/**
- * Shared design constants for the Quiz Application.
- * Modern Card UI — General Knowledge theme.
- */
+
+
 public class commonConstants {
 
     // ── Brand Colors ──────────────────────────────────────────
