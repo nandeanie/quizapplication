@@ -199,6 +199,7 @@ public class qiuzscreengui extends JFrame implements ActionListener {
         }
 
         firstchoicemade = true;
+        
     }
 
     private void showFinalScore() {
