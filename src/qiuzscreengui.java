@@ -12,7 +12,8 @@ import quizapplication.src.database.question;
 
 import java.awt.*;
 import java.awt.event.*;
-import java.util.ArrayList;
+import java.util.ArrayList
+    
 
 
 public class qiuzscreengui extends JFrame implements ActionListener {
